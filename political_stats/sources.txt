@@ -1,0 +1,2 @@
+General mortality rates: https://webappa.cdc.gov/sasweb/ncipc/mortrate.html
+Islamic terrorism specific mortality rates: https://en.wikipedia.org/wiki/List_of_Islamist_terrorist_attacks
