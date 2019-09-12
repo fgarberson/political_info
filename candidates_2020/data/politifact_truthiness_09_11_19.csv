@@ -1,0 +1,12 @@
+name,n_true,n_mostly_true,n_half_true,n_mostly_false,n_false,n_pants_on_fire
+Donald Trump,32,76,99,153,248,104
+Joe Biden,14,21,24,16,13,4
+Bernie Sanders,19,53,38,22,16,0
+Elizabeth Warren,3,8,9,0,0,0
+Kamala Harris,2,10,4,3,6,0
+Pete Buttigieg,1,1,3,2,0,0
+Beto O'Rourke,6,6,7,5,1,0
+Amy Klobuchar,3,7,2,0,1,0
+Andrew Yang,0,1,0,0,1,0
+Corey Booker,7,11,4,2,6,0
+Julian Castro,6,6,5,0,0,0
